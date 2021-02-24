@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1rem;
+}
+
+header {
+  margin-top: 1.5rem;
+  margin-left: 1.5rem;
+}
+
+form,
+ul {
+  margin-top: 1.5rem;
+  margin-left: 1.5rem;
+}
+
+label {
+  font-size: 1.6rem;
+}
+
+input,
+button {
+  display: block;
+  padding: 0.5rem;
+  font-size: 1.6rem;
+  margin: 0.5rem 0;
+} 
+
+ul {
+  margin-left: 2rem;
+}
+
+li {
+  font-size: 1.6rem;
+}
